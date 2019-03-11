@@ -60,7 +60,7 @@ def generateShuffledData():
 
 		for i in range(1, TOTAL_FILE_COUNT+1):
 			fname = get_file_name(i)
-			F = Tokenizer("labelled/" + fname + ".txt")
+			F = Tokenizer("B/" + fname + ".txt")
 			F.tokenize()
 			F.filter_tokens()
 
@@ -107,7 +107,7 @@ def generateFixedData():
 		all_neg = 0
 		for i in range(startIndex, endIndex + 1):
 			fname = get_file_name(i)
-			F = Tokenizer("labelled/" + fname + ".txt")
+			F = Tokenizer("B/" + fname + ".txt")
 			F.tokenize()
 			F.filter_tokens()
 
