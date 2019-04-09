@@ -1,4 +1,4 @@
-We have used Books information from <a href="https://amazon.com">Amazon</a> and <a href="https://barnesandnoble.com">Barnes&Noble</a>.
+We have used Books information from <a href="https://amazon.com">Amazon</a> and <a href="https://www.barnesandnoble.com/">Barnes&Noble</a>.
 
 The categories of books considered from both the marketplaces include Literary Fiction, Classics, Biographies and Ancient History.
 
