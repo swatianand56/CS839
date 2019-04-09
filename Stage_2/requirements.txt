@@ -1,0 +1,3 @@
+selenium
+scrapy
+scrapy-rotating-proxies
