@@ -88,5 +88,42 @@
       </td>
     </tr>
   </table>
+  <br/>
+  <h2>Project Stage 3</h2>
+  <h4>Matching Fodors and Zagats</h4>
+  <table style="padding:10px">
+    <tr>
+      <td>
+        Cluster
+      </td>
+      <td>
+        <a href="http://ec2-35-171-88-48.compute-1.amazonaws.com/frontend/ulogin/">http://ec2-35-171-88-48.compute-1.amazonaws.com/frontend/ulogin/</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        User ID 
+      </td>
+      <td>
+        Group25
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Project ID
+      </td>
+      <td>
+        Test
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Screenshots
+      </td>
+      <td>
+        <a href="https://github.com/swatianand56/CS839/blob/master/images/Stage3/">Screenshots</a>
+      </td>
+    </tr>
+  </table>
 </body>
 </html>
