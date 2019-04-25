@@ -125,5 +125,77 @@
       </td>
     </tr>
   </table>
+  <br/>
+  <h4>Blocking Results</h4>
+  <table style="padding:10px">
+    <tr>
+      <td>
+        Cluster
+      </td>
+      <td>
+        <a href="http://ec2-35-171-88-48.compute-1.amazonaws.com/frontend/ulogin/">http://ec2-35-171-88-48.compute-1.amazonaws.com/frontend/ulogin/</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        User ID 
+      </td>
+      <td>
+        Group25
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Project ID
+      </td>
+      <td>
+        Books1
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Screenshots
+      </td>
+      <td>
+        <a href="https://github.com/swatianand56/CS839/blob/master/images/Stage3/blocking/">Screenshots</a>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <h4>Matching Results</h4>
+  <table style="padding:10px">
+    <tr>
+      <td>
+        Cluster
+      </td>
+      <td>
+        <a href="http://ec2-35-171-88-48.compute-1.amazonaws.com/frontend/ulogin/">http://ec2-35-171-88-48.compute-1.amazonaws.com/frontend/ulogin/</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        User ID 
+      </td>
+      <td>
+        Group25
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Project ID
+      </td>
+      <td>
+        Books1
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Screenshots
+      </td>
+      <td>
+        <a href="https://github.com/swatianand56/CS839/blob/master/images/Stage3/matching/">Screenshots</a>
+      </td>
+    </tr>
+  </table>
 </body>
 </html>
