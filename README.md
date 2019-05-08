@@ -197,5 +197,48 @@
       </td>
     </tr>
   </table>
+  <h4>Estimate Accuracy</h4>
+  <table style="padding:10px">
+    <tr>
+      <td>
+        Table A
+      </td>
+      <td>
+        <a href="https://github.com/swatianand56/CS839/blob/master/Stage_3/TableA">Table A</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Table B
+      </td>
+      <td>
+        <a href="https://github.com/swatianand56/CS839/blob/master/Stage_3/TableB">Table B</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Candidate Set
+      </td>
+      <td>
+        <a href="https://github.com/swatianand56/CS839/blob/master/Stage_3/CandidateSet">Candidate Set</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Prediction List
+      </td>
+      <td>
+        <a href="https://github.com/swatianand56/CS839/blob/master/Stage_3/PredictionList">Prediction List</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Size of Candidate Set C
+      </td>
+      <td>
+        7120
+      </td>
+    </tr>
+  </table>
 </body>
 </html>
